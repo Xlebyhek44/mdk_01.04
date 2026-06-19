@@ -33,12 +33,7 @@
 ### Требования
 - Установленный [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 
-### Команды
+### Команда для запуска
 
 ```bash
-# 1. Клонировать репозиторий
-git clone https://github.com/Xlebyhek44/mdk_01.04.git
-cd mdk_01.04
-
-# 2. Запуск
 dotnet run
